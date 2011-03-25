@@ -106,6 +106,9 @@
 \newcommand\doilink[1]{\href{http://dx.doi.org/#1}{#1}}
 \newcommand\doi[1]{doi:\doilink{#1}}
 
+\newcommand\bookitem[5]{\item #1 #2 (#3) (\href{#4}{#5})}
+\newcommand\amazon[4]{\bookitem{#1}{#2}{#3}{http://www.amazon.com/#4}{Amazon.com]}
+
 % For \url{SOME_URL}, links SOME_URL to the url SOME_URL
 \providecommand*\url[1]{\href{#1}{#1}}
 % Same as above, but pretty-prints SOME_URL in teletype fixed-width font

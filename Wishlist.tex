@@ -88,7 +88,7 @@
 
 % An itemize-style list with little space between items
 \newenvironment{innerlist}[1][\enskip\textbullet]%
-        {\begin{compactitem}[#1]}{\end{compactitem}}
+      {\begin{flushleft}\begin{compactitem}[#1]}{\end{compactitem}\end{flushleft}}
 
 % An environment IDENTICAL to innerlist that has better pre-list spacing
 % when used as the first thing in a \section
@@ -101,7 +101,7 @@
 % if there is a needed pagebreak nearby.
 \newcommand{\blankline}{\quad\pagebreak[2]}
 
-\newcommand{\bookitem}[5]{\item #1 #2 (#3) (\href{#4}{#5})}
+\newcommand{\bookitem}[5]{\item #1 \linebreak by #2 (#3) (\href{#4}{#5})}
 \newcommand{\amazon}[4]{\bookitem{#1}{#2}{#3}{http://www.amazon.com/#4}{Amazon.com}}
 
 % For \url{SOME_URL}, links SOME_URL to the url SOME_URL

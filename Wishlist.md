@@ -120,11 +120,23 @@
 
 # Journeys
 
+* Lithuania, Klaipeda
+
 * Germany, Munich
 
 * Switzerland, Zurich
 
 * Croatia, Velebit
+
+* Belarus, Minsk (in summer)
+
+# Music, gigs, festivals, etc.
+
+* [Mėnuo Juodaragis](http://www.mjr.lt) festival, Lithuania
+
+* Ambassador21 gig in Moscow
+
+* Spiritual Front gig in Moscow
 
 # Misc
 

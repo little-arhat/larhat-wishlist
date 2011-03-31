@@ -116,7 +116,7 @@
 
 * Network Attached Storage (haven’t decided yet, which one)
 
-*  Descent Wireless router with OpenWRT support
+* Decent Wireless router with OpenWRT support
 
 # Journeys
 

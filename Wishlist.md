@@ -114,9 +114,6 @@
 
 # Tech
 
-* Network Attached Storage (haven’t decided yet, which one)
-
-* Decent Wireless router with OpenWRT support
 
 # Journeys
 

@@ -132,8 +132,6 @@
 
 # Music, gigs, festivals, etc.
 
-* [Mėnuo Juodaragis](http://www.mjr.lt) festival, Lithuania
-
 * Ambassador21 gig in Moscow
 
 * Spiritual Front gig in Moscow

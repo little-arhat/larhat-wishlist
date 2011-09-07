@@ -83,6 +83,10 @@
   by Richard Jones (Hardcover)
   ([Amazon.com](http://www.amazon.com/Garbage-Collection-Algorithms-Automatic-Management/dp/0471941484))
 
+* *The Garbage Collection Handbook: The Art of Automatic Memory Management* 
+  by Richard Jones, Antony Hosking, Eliot Moss (Hardcover)
+  ([Amazon.com] (http://www.amazon.com/Garbage-Collection-Handbook-Management-Algorithms/dp/1420082795))
+
 * *Types and Programming Languages*
   by Benjamin C. Pierce (Hardcover)
   ([Amazon.com](http://www.amazon.com/Types-Programming-Languages-Benjamin-Pierce/dp/0262162091))

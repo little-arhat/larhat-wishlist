@@ -139,4 +139,6 @@
 
 # Misc
 
+* Eigenharp ([eigenlabs.com](http://www.eigenlabs.com/product/pico/))
+
 * Socks pack ([noskinagod.ru](http://www.noskinagod.ru/?page=4))

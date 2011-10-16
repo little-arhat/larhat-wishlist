@@ -47,6 +47,11 @@
   by Jan L. Harrington (Paperback)
   ([Amazon.com](http://www.amazon.com/Relational-Database-Explained-Kaufmann-Management/dp/1558608206))
 
+* *Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices
+  (The Morgan Kaufmann Series in Networking)*
+  by George Varghese (Hardcover)
+  ([Amazon.com](http://www.amazon.com/Network-Algorithmics-Interdisciplinary-Designing-Networking/dp/0120884771))
+
 * *Cryptography in the Database: The Last Line of Defense*
   by Kevin Kenan (Paperback)
   ([Amazon.com](http://www.amazon.com/Cryptography-Database-Last-Line-Defense/dp/0321320735))
